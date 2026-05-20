@@ -217,7 +217,7 @@ If you use this work in research, please cite:
 
 ## Contact
 
-For questions, collaborations, or security disclosures: [your-email]
+For questions, collaborations, or security disclosures: efeelobarielizabeth@gmail.com
 
 ---
 
